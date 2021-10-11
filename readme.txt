@@ -1,4 +1,4 @@
-![foto](https://github.com/RaisGG/Capstone-bangkit/blob/master/Worst-10-Fruits-For-Diabetes-300x169.jpg)
+![satu](https://github.com/RaisGG/Capstone-bangkit/blob/master/Worst-10-Fruits-For-Diabetes-300x169.jpg)
 ## About Edify Diabetics
 Edify is your personal assistant who can provide knowledge about fruits or vegetables suitable for consumption for diabetics.
 Edify can recognize the fruits that you will consume just by using your smartphone camera.
